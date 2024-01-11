@@ -18,3 +18,7 @@ No Plugins will be installed, you have just made them available. You can now sel
 ## [Customize+](https://github.com/Aether-Tools/CustomizePlus)
 - A plugin to scale your characters body parts according to your desires. 
 - Maintained and developed mainly by Risa.
+
+
+## Acknowledgements
+This repository is using the code made for the [Sea Of Stars](https://github.com/Ottermandias/SeaOfStars) repository.
